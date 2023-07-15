@@ -1,2 +1,2 @@
-print("hii selenium")
-print("selenium is a automation tool")
+print("hi selenium")
+print("selenium is a tool")
